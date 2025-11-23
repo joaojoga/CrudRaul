@@ -5,7 +5,7 @@
 #define ARQUIVO "pessoas.dat"
 #define MAX_NOME 100
 #define MAX_EMAIL 100
-#define TAM_CPF 12  // 11 dígitos + '\0'
+#define TAM_CPF 12  
 
 typedef struct {
     char nome[MAX_NOME];
@@ -351,4 +351,5 @@ int validarCPF(char *cpf) {
 void limparBuffer() {
     int c;
     while ((c = getchar()) != '\n' && c != EOF);
+
 }
