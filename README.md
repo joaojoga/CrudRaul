@@ -1,6 +1,6 @@
 # CrudRaul
 
 Feito por:
-João Victor Montanaro
-Laura Bortoloto
-Laura Paracampos
+- João Victor Montanaro
+- Laura Bortoloto
+- Laura Paracampos
